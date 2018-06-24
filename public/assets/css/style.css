@@ -29,10 +29,10 @@ footer,
 /* start hover styling */
 #logo:hover,
 input[type=submit]:hover {
-  background: #5e7f7e;
+  background: blue;
 }
 nav a:hover {
-  color: #5e7f7e;
+  color: blue;
 }
 .social:hover {
   cursor: pointer;
@@ -60,7 +60,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: blue;
 }
 h1 {
   padding-bottom: 20px;
@@ -94,7 +94,7 @@ h3 {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: blue;
 }
 nav {
   float: right;
@@ -161,6 +161,7 @@ h3,
   margin: 0 0 40px;
   background: #fff;
   border: 1px solid #ddd;
+  text-align: justify;
 }
 /* contact page */
 #contact-form ul {
